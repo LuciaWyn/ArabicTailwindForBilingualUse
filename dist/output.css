@@ -584,32 +584,32 @@ video {
 
 .arabic-text-4xl{
   font-size: 2.25rem;
-  line-height: 4.85rem;
+  line-height: 7rem;
 }
 
 .arabic-text-5xl{
   font-size: 3rem;
-  line-height: 4.75rem;
+  line-height: 7.75rem;
 }
 
 .arabic-text-6xl{
   font-size: 3.175rem;
-  line-height: 4.75rem;
+  line-height: 7.925rem;
 }
 
 .arabic-text-7xl{
   font-size: 4.5rem;
-  line-height: 6.25rem;
+  line-height: 11.75rem;
 }
 
 .arabic-text-8xl{
   font-size: 6rem;
-  line-height: 7.75rem;
+  line-height: 12.75rem;
 }
 
 .arabic-text-9xl{
   font-size: 8rem;
-  line-height: 8.75rem;
+  line-height: 17.75rem;
 }
 
 .mx-auto {
